@@ -1,1 +1,1 @@
-# Student Collaboration App'.
+# Student Collaboration App
